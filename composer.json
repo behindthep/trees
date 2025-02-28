@@ -14,5 +14,7 @@
             "email": "alex.kolvah@mail.ru"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*"
+    }
 }
